@@ -1,3 +1,2 @@
-﻿// Example:
-Console.WriteLine(new Day4Solution().Task1());
-//Console.WriteLine(new Day1Solution().Task2());
+﻿Console.WriteLine(new Day4Solution().Task1());
+Console.WriteLine(new Day4Solution().Task2());
